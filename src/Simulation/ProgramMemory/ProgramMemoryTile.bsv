@@ -1,4 +1,4 @@
-import PGTypes::*;
+import PGRV::*;
 import TileLink::*;
 
 import ClientServer::*;

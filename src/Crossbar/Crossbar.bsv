@@ -1,5 +1,5 @@
-import PGTypes::*;
-import SoCAddressMap::*;
+import PGRV::*;
+import AddressMap::*;
 import TileLink::*;
 
 import ClientServer::*;

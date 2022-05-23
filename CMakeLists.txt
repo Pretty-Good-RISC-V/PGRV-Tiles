@@ -3,9 +3,4 @@ cmake_policy(SET CMP0077 NEW)
 
 project(PGRV_Tiles)
 
-#
-# CMAKE_MODULE_PATH
-#
-list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
-
 add_subdirectory(src)
